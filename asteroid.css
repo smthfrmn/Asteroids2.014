@@ -1,0 +1,13 @@
+#game-canvas{
+	display: block;
+	background: white;
+	margin: 0 auto;
+	padding: 10px;
+	border: 2px solid black;
+	border-radius: 3px;
+	margin-top: 30px;
+}
+
+body {
+	background-image: url('outer-space.jpg');
+}
